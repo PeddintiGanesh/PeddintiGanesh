@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peddintiganesh&label=Profile%20views&color=0e75b6&style=flat" alt="peddintiganesh" /> </p>
 
-- 🔭 I’m currently doing **Masters** in JNTUK
+- 🔭 I’m currently working as **Software Engineer** at **Capgemini**
 
 - 🌱 I’m currently learning **AI-ML**
 
